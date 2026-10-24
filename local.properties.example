@@ -1,0 +1,4 @@
+# Copy to local.properties (Android Studio creates local.properties itself with sdk.dir; just ADD these two lines).
+# Only needed for the optional one-time online avatar creation. Leave empty to use the offline avatar builder.
+AVATAR_API_URL=
+AVATAR_API_KEY=

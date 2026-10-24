@@ -1,0 +1,42 @@
+{
+  "version": "placeholder-0",
+  "note": "PLACEHOLDER FILE. It only shows the format. Replace it with the real knowledge file (Settings > Knowledge > Import). Text below is NOT medical content.",
+  "entries": [
+    {
+      "id": "kb-skipped-meal",
+      "factor": "skipped_meal",
+      "title": "Skipped meals",
+      "whyPlain": "PLACEHOLDER: plain-language explanation of why this factor may matter goes here.",
+      "whyScience": "PLACEHOLDER: the mechanism, in more scientific words, goes here.",
+      "evidence": "placeholder",
+      "sources": ["PLACEHOLDER source citation"],
+      "tryThis": ["PLACEHOLDER: one concrete thing she could try."],
+      "safetyNote": "Talk to your doctor if attacks are frequent.",
+      "placeholder": true
+    },
+    {
+      "id": "kb-short-sleep",
+      "factor": "short_sleep",
+      "title": "Short sleep",
+      "whyPlain": "PLACEHOLDER: plain explanation.",
+      "whyScience": "PLACEHOLDER: scientific detail.",
+      "evidence": "placeholder",
+      "sources": ["PLACEHOLDER source citation"],
+      "tryThis": ["PLACEHOLDER: suggestion."],
+      "safetyNote": "",
+      "placeholder": true
+    },
+    {
+      "id": "kb-perimenstrual",
+      "factor": "perimenstrual",
+      "title": "Days around your period",
+      "whyPlain": "PLACEHOLDER: plain explanation.",
+      "whyScience": "PLACEHOLDER: scientific detail.",
+      "evidence": "placeholder",
+      "sources": ["PLACEHOLDER source citation"],
+      "tryThis": ["PLACEHOLDER: suggestion."],
+      "safetyNote": "",
+      "placeholder": true
+    }
+  ]
+}
